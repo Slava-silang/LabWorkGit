@@ -1,0 +1,22 @@
+*   18716a1 (HEAD -> main, origin/main, origin/HEAD) resolved conf
+|\  
+| * f982c93 (origin/feature-a, feature-a) new string
+| * 5811716 from a
+* | 288fcaa from a
+* |   fae6e5f Merge branch 'feature-b'
+|\ \  
+| |/  
+|/|   
+* | cb80fcb fourth string
+* | ed3f2a3 third string
+| | * 138de74 (origin/feature-b, feature-b) new string b
+| | * c5bc61c "new com"
+| |/  
+| * 958fa16 fourth string
+| * 55e7d30 third string
+| * 590f75b "third string"
+|/  
+* 0bfb36d init
+* 016dabf Initial commit
+(END)
+
